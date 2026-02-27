@@ -147,7 +147,7 @@ html, body {
 
 .hero h1 {
   font-family: var(--font-heading);
-  font-size: clamp(36px, 5vw, 64px);
+  font-size: clamp(36px, 5vw, 52px);
   margin-bottom: 20px;
 }
 
@@ -244,7 +244,7 @@ top: 50%;
 left: 0;
 transform: translate(-100%, -50%);
 font-family: var(--font-heading);
-font-size: clamp(80px, 15vw, 220px);
+font-size: clamp(36px, 15vw, 52px);
 font-weight: 800;
 white-space: nowrap;
 color: rgba(0, 0, 0, 0.1);
