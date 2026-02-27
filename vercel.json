@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "siinocakes",
+  "name": "Chris",
   "builds": [
     { "src": "public/**/*", "use": "@vercel/static" }
   ],
@@ -8,3 +8,4 @@
     { "src": "/(.*)", "dest": "/public/$1" }
   ]
 }
+
